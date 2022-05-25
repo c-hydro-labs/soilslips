@@ -1,0 +1,128 @@
+index,code,name,longitude,latitude,alert_area
+0,AIROL,Airole,7.544840000000001,43.87296,alert_area_a
+1,ALASS,Alassio,8.1693,44.006240000000005,alert_area_a
+2,ALPIC,Alpicella,8.52604,44.406670000000005,alert_area_b
+3,ALTOM,Alto - Madonna del lago,7.99653,44.12275,alert_area_a
+4,AMBOR,Amborzasco,9.45496,44.51447,alert_area_e
+5,BARGO,Bargone,9.481359999999999,44.29506,alert_area_c
+6,BELEN,Colle Belenda,7.69983,43.98152,alert_area_a
+7,BESTA,Bestagno,8.0007,43.9333,alert_area_a
+8,BMARO,Borgomaro,7.953149999999999,43.97713,alert_area_a
+9,BOLSN,Bolsine,8.573220000000001,44.37234,alert_area_b
+10,BRZON,Borzone,9.410129999999999,44.42429,alert_area_c
+11,CALGR,Calice Ligure - Ca Rosse,8.30205,44.19573,alert_area_a
+12,CAMOG,Camogli,9.159310000000001,44.34704,alert_area_b
+13,CAMPL,Campo Ligure,8.6939,44.542559999999995,alert_area_d
+14,CARPG,Carpe - Case Garoni,8.1634,44.14441,alert_area_a
+15,CARRO,Carro,9.597719999999999,44.27525,alert_area_c
+16,CASON,Casoni di Suvero,9.76581,44.30542,alert_area_c
+17,CASRB,Castelvecchio di R. B.,8.11888,44.13202,alert_area_a
+18,CCADB,Colle di Cadibona,8.38289,44.33297,alert_area_b
+19,CCHER,Cichero,9.32194,44.42107,alert_area_c
+20,CCORM,Calice al C. - Molunghi,9.84,44.249900000000004,alert_area_c
+21,CEMBR,Cembrano,9.58414,44.35237,alert_area_c
+22,CERIA,Ceriana,7.77388,43.87968,alert_area_a
+23,CFUNZ,Genova - Centro Funzionale,8.945910000000001,44.400349999999996,alert_area_b
+24,CHIRI,Chiavari,9.32978,44.31885,alert_area_c
+25,CLROS,Colla Rossa,7.54322,43.83103,alert_area_a
+26,CMELO,Colle del Melogno,8.20245,44.23234,alert_area_a
+27,CNAVA,Colle di Nava,7.873309999999999,44.08325,alert_area_a
+28,CODOG,Colle D'oggia,7.866670000000001,43.98131,alert_area_a
+29,CONNA,Conna,8.103629999999999,43.97923,alert_area_a
+30,CRAIN,Cipressa,7.92859,43.85263,alert_area_a
+31,CRCFI,Crocefieschi - Santuario,9.01824,44.58458,alert_area_e
+32,CRETO,Creto,9.00714,44.47507,alert_area_e
+33,CRORE,Crocetta di Orero,8.985859999999999,44.52014,alert_area_b
+34,CUCCA,Cuccarello,9.699079999999999,44.349669999999996,alert_area_c
+35,DAVAG,Davagna,9.09539,44.46781,alert_area_b
+36,DEGIR,Dego - Girini,8.33939,44.45176,alert_area_d
+37,DOLCE,Dolcedo,7.9515,43.9059,alert_area_a
+38,ELLRA,Ellera - Foglietto,8.4667,44.36638,alert_area_b
+39,FALLA,Fallarosa,9.10336,44.51715,alert_area_e
+40,FERRA,Ferrania,8.32248,44.36694,alert_area_d
+41,FFRES,Fontana Fresca,9.09318,44.4029,alert_area_b
+42,FIORI,Fiorino,8.704930000000001,44.46494,alert_area_b
+43,FRAMU,Framura,9.54033,44.213589999999996,alert_area_c
+44,GEBOL,Genova - Bolzaneto,8.895610000000001,44.4553,alert_area_b
+45,GEFIU,Genova - Fiumara,8.88407,44.411410000000004,alert_area_b
+46,GEGEI,Genova - Geirato,8.97959,44.45966,alert_area_b
+47,GEPCA,Genova - Gavette,8.96109,44.43439,alert_area_b
+48,GEPEG,Genova - Pegli,8.8246,44.43227,alert_area_b
+49,GEPTX,Genova - Pontedecimo,8.9001,44.48852,alert_area_b
+50,GEQUE,Genova - Quezzi,8.9726,44.42367,alert_area_b
+51,GIACO,Giacopiane - Lago,9.387730000000001,44.46112,alert_area_c
+52,GOUTA,Sella di Gouta,7.608079999999999,43.9396,alert_area_a
+53,IMPER,Imperia - Oss. Meteosismico,8.01652,43.87957,alert_area_a
+54,INASV,Savona - Istituto Nautico,8.48305,44.306200000000004,alert_area_b
+55,ISBLL,Albenga - Isolabella,8.179559999999999,44.06875,alert_area_a
+56,ISOVE,Isoverde,8.85822,44.53013,alert_area_b
+57,LAPRS,La Presa,9.04717,44.44076,alert_area_b
+58,LAVAG,Lavagnola,8.48011,44.33542,alert_area_b
+59,LERCA,Lerca,8.64766,44.4035,alert_area_b
+60,LEVAN,Levanto,9.606770000000001,44.17143,alert_area_c
+61,LFMTV,La Foce - Mte Viseggi,9.7903,44.13254,alert_area_c
+62,LGIAC,Giacopiane - Diga,9.39525,44.46268,alert_area_c
+63,LOCOC,Loco Carchelli,9.28421,44.55421,alert_area_e
+64,MADGR,Madonna delle Grazie,8.74299,44.433440000000004,alert_area_b
+65,MANIE,Manie,8.37883,44.19325,alert_area_a
+66,MARIN,Marinella di Sarzana,10.01409,44.05021,alert_area_c
+67,MATRA,Mattarana,9.614740000000001,44.24499,alert_area_c
+68,MELEE,Mele,8.73312,44.47419,alert_area_b
+69,MGAZZ,Santuario Monte Gazzo,8.84485,44.44247,alert_area_b
+70,MIGNA,Mignanego,8.93816,44.54028,alert_area_b
+71,MMAUR,Monte Maure,7.61888,43.7933,alert_area_a
+72,MOBRA,Albenga - Molino Branca,8.21077,44.04882,alert_area_a
+73,MONTA,Montagna,8.37136,44.28425,alert_area_b
+74,MONTG,Montoggio,9.04769,44.515609999999995,alert_area_e
+75,MOPEN,Monte Pennello,8.79867,44.48017,alert_area_b
+76,MROCC,Monte Rocchetta,9.93842,44.07129,alert_area_c
+77,MROSS,Monterosso,9.6402,44.1483,alert_area_c
+78,MTECA,Monte Cappellino,8.95422,44.548559999999995,alert_area_e
+79,OGNIO,Ognio,9.16994,44.44372,alert_area_c
+80,ONZPO,Onzo - Ponterotto,8.04134,44.057190000000006,alert_area_a
+81,ORERO,Croce Orero,9.28492,44.424220000000005,alert_area_c
+82,PANES,Panesi,9.35624,44.34209,alert_area_c
+83,PDVRM,Padivarma,9.770990000000001,44.195139999999995,alert_area_c
+84,PFEAR,Poggio Fearza,7.793429999999999,44.04202,alert_area_a
+85,PIGNO,Casale di Pignone,9.714960000000001,44.18992,alert_area_c
+86,PRAIC,Prai,8.67306,44.51775,alert_area_d
+87,PREMA,Premanico,9.00911,44.41681,alert_area_b
+88,PRMLO,Pratomollo,9.45876,44.47287,alert_area_c
+89,PRTTI,Pian dei Ratti,9.27102,44.39365,alert_area_c
+90,PTECO,Pieve di Teco,7.9147300000000005,44.04952,alert_area_a
+91,PTURC,Passo del Turchino,8.73602,44.48613,alert_area_b
+92,PVENE,Portovenere - Comune,9.835939999999999,44.052,alert_area_c
+93,PZGLI,Pizzeglio,7.694540000000001,43.91862,alert_area_a
+94,RAPAL,Rapallo,9.20928,44.35453,alert_area_c
+95,REPPI,Reppia,9.45774,44.374880000000005,alert_area_c
+96,RICCO,Ricco' del Golfo,9.763729999999999,44.15319,alert_area_c
+97,RIGHI,Genova - Castellaccio,8.93433,44.42797,alert_area_b
+98,ROCNE,Rocchetta Nervina,7.60177,43.88859,alert_area_a
+99,SALBE,Bargagli,9.10735,44.43845,alert_area_b
+100,SANDA,Sanda,8.5273,44.36189,alert_area_b
+101,SANTU,Santuario di Savona,8.437529999999999,44.345549999999996,alert_area_b
+102,SCIAR,Sciarborasca,8.62464,44.40645,alert_area_b
+103,SCURT,Scurtabo',9.53384,44.40681,alert_area_c
+104,SEBOR,Seborga,7.6985,43.82756,alert_area_a
+105,SEGIA,Sella Giassina,9.18206,44.48758,alert_area_c
+106,SEGOD,Sesta Godano,9.67751,44.29848,alert_area_c
+107,SMVAR,S. Margherita Vara,9.65964,44.2747,alert_area_c
+108,SPZIA,La Spezia,9.82819,44.107029999999995,alert_area_c
+109,SRZAN,Sarzana,9.96546,44.11227,alert_area_c
+110,SSGIU,Stella S. Giustina,8.48252,44.415820000000004,alert_area_b
+111,STALE,Statale,9.48082,44.35048,alert_area_c
+112,SZIGN,Sero' di Zignago,9.736979999999999,44.26434,alert_area_c
+113,TAVRN,Tavarone,9.54859,44.312740000000005,alert_area_c
+114,TESTI,Testico,8.035169999999999,44.00653,alert_area_a
+115,TOGAR,Torriglia - Garaventa,9.174949999999999,44.529309999999995,alert_area_e
+116,TRIOR,Triora,7.7624200000000005,43.994510000000005,alert_area_a
+117,URVAS,Urbe - Vara Sup.,8.62739,44.46953,alert_area_d
+118,VALIG,Varese Ligure,9.5842,44.38313,alert_area_c
+119,VALZE,Valzemola,8.19105,44.36959,alert_area_d
+120,VBGOR,Valbrevenna - Gorra,9.02329,44.531760000000006,alert_area_e
+121,VERDE,Verdeggia,7.721080000000001,44.04425,alert_area_a
+122,VERZI,Verzi Loano,8.22002,44.16397,alert_area_a
+123,VICOM,Vicomorasso,8.978489999999999,44.48555,alert_area_b
+124,VIGAN,Viganego,9.06348,44.42846,alert_area_b
+125,VREGI,Valleregia,8.94744,44.52038,alert_area_b
+126,XXMIG,Ventimiglia,7.6121099999999995,43.78777,alert_area_a
